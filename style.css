@@ -1,0 +1,34 @@
+/* Set ALL HTML elements with border-box sizing */* {
+
+  box-sizing: border-box;
+
+}
+
+body{
+  background: #778DA9;
+}
+
+.centeredText {
+  text-align: center;
+}
+
+
+header {
+  font-family: 'Josefin Slab', 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 25px;
+  padding: auto;
+  color: #e0e1dd;
+
+}
+ h2{
+   font-family: "PT Serif", Arial, Helvetica, sans-serif;
+   height: auto;
+   margin: auto;
+
+ }
+
+
+p, ul, ol{
+  font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
