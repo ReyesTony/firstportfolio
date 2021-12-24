@@ -18,7 +18,7 @@ header {
   text-align: center;
   font-size: 25px;
   padding: auto;
-  color: #e0e1dd;
+  color: #020247;
 
 }
  h2{
@@ -32,3 +32,9 @@ header {
 p, ul, ol{
   font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+
+a:link {color: blue;}
+a:visited {color: purple;}
+a:hover{color:lightblue;}
+a:active{color: red;}
