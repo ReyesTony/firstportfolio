@@ -1,6 +1,6 @@
 /* Set ALL HTML elements with border-box sizing */* {
 
-  box-sizing: border-box;
+    box-sizing: border-box;
 
 }
 
@@ -34,7 +34,7 @@ p, ul, ol{
 }
 
 
-a:link {color: blue;}
-a:visited {color: purple;}
+a:link {color: #330850;}
+a:visited {color: #1B1B37;}
 a:hover{color:lightblue;}
 a:active{color: red;}
